@@ -1,0 +1,52 @@
+body {
+    font-family: "Lato",sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #a9a9a9;
+    font-size: 35px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+
+.smallImage {
+	width: 555px;
+	height: auto;
+}
+
+.names {
+	font-size: 37px;
+}
+
+.image1 {
+	width: auto;
+    height: auto;
+}
+
+.imageSmall {
+	width: 555px;
+	height: auto;
+}
+
+.hr-rule {
+    border-bottom: 1px solid black;
+}
+
+header {
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid grey;
+}
